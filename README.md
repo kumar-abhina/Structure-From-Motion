@@ -100,9 +100,9 @@ This repo contains the code for the above-mentioned title. As it was difficult t
 
 
 # Output
-<img src="Outputs/BA.png" alt="After_BA" width="700"/>
-<img src="Outputs/compare.png" alt="Comparision" width="700"/>
-<img src="Outputs/CameraPosesComparision.png" alt="Camposes" width="700"/>
+<img src="Results/after_BA_pointcloud_and_camera.png" alt="After_BA" width="700"/>
+<img src="Results/CameraPosesComparision.png" alt="Comparision" width="700"/>
+<img src="Results/camera_pose_after_BA.png" alt="Camposes" width="700"/>
 
 # How 3D points are obtained in this code?
 So the steps followed for creating the 3D points are as follows:
